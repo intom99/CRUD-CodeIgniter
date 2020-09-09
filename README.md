@@ -2,4 +2,4 @@
 CRUD Sederhana (1 table database):
 Data Mahasiswa menggunakan <b>CodeIgniter 3</b> dan <b>Bootstrap 4</b>
 ## 💻 SS Hasil
-<img src="tampilan.png" alt="Screenshoot Hasil"/>
+<img src="https://github.com/intom99/CRUD-CodeIgniter/blob/master/tampilan.PNG" alt="Screenshoot Hasil"/>
